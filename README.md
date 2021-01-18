@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+APP de los personajes de Rick y Morty
+creada con React
+Utiliza Redux y firebase 
+ DEMO https://maru8605.github.io/Rick-and-Morty-app/
+
 
 ## Available Scripts
 
